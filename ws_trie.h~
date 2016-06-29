@@ -1,7 +1,0 @@
-
-#ifndef WS_TRIE_H
-#define WS_TRIE_H
-
-int inc(int a);
-
-#endif

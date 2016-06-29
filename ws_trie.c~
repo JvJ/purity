@@ -1,6 +1,0 @@
-
-#include <stdlib.h>
-
-int inc(int a){
-  return a+1;
-}
